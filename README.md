@@ -1,6 +1,6 @@
-##Source code for a Code your own quiz app.
+## Source code for a Code your own quiz app.
 
-###Before you run this app
+### Before you run this app
 1- You need to have python 3.4 installed on your computer.
 2- You also need  to install the Enum package by typing this command
 in your terminal:
@@ -8,10 +8,10 @@ in your terminal:
 sudo pip install enum34
 ```
 
-#####To run this project in an IDE:
+##### To run this project in an IDE:
 1- open the code_your_own_quiz.py pythonfile in your IDE and run it.
 
-#####If you do not have an IDE but you have python installed on your laptop:
+##### If you do not have an IDE but you have python installed on your laptop:
 
 1- open your terminal
 
